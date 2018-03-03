@@ -1,0 +1,665 @@
+#. Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Itek\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat Apr 05 2014 16:34:57 GMT+0100 (GMT Standard Time)\n"
+"POT-Revision-Date: Sat Apr 05 2014 16:37:03 GMT+0100 (GMT Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: ../404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:32
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:40
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:43
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:46
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:49 ../inc/widgets.php:53
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:52 ../inc/widgets.php:54
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:55 ../inc/widgets.php:55
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:58 ../inc/widgets.php:57
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:61 ../inc/widgets.php:58
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:64 ../sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:29
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:36 ../comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-home.php:23 ../content-single.php:23
+msgid "Pages: "
+msgstr ""
+
+#: ../content-home.php:28 ../content.php:30 ../inc/widgets.php:325
+msgid "Read The Full Article &raquo;"
+msgstr ""
+
+#: ../content-page.php:18 ../content.php:37 ../image.php:61
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:23 ../content-single.php:64 ../content.php:71 ../image.php:35 ../image.php:79 ../inc/template-tags.php:122 ../inc/template-tags.php:141
+msgid "Edit"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../content-single.php:32 ../content-single.php:35 ../content.php:48 ../content.php:58
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:40
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to "
+"%4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:42
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:48
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:50
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to "
+"%4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content.php:34 ../inc/widgets.php:113 ../inc/widgets.php:158
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content.php:52
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content.php:68 ../inc/widgets.php:180
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content.php:68 ../inc/widgets.php:180
+msgid "1 Comment"
+msgstr ""
+
+#: ../content.php:68 ../inc/widgets.php:180
+msgid "% Comments"
+msgstr ""
+
+#: ../footer.php:14
+msgid "Proudly Powered By"
+msgstr ""
+
+#: ../footer.php:14
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../footer.php:14
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: ../footer.php:14 ../footer.php:16
+msgid " %s"
+msgstr ""
+
+#: ../footer.php:16
+msgid "Theme"
+msgstr ""
+
+#: ../footer.php:16
+msgid "http://www.wpstrapcode.com/blog/itek"
+msgstr ""
+
+#: ../footer.php:16
+msgid " By %s"
+msgstr ""
+
+#: ../functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:55
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:56
+msgid "Social Menu"
+msgstr ""
+
+#: ../functions.php:57
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:124
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:133
+msgid "Showcase One - Above Content."
+msgstr ""
+
+#: ../functions.php:135 ../functions.php:145 ../functions.php:155
+msgid ""
+"One of four above content showcase widget - ideal for use with the Itek - "
+"Alternative Recent Posts widget"
+msgstr ""
+
+#: ../functions.php:143
+msgid "Showcase Two - Above Content."
+msgstr ""
+
+#: ../functions.php:153
+msgid "Showcase Three - Above Content"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:269
+msgctxt "PT+Sans|Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../image.php:24
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:41
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../image.php:70
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:72
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" "
+"href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#. Only comments open
+#: ../image.php:74
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" "
+"title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#. Comments and trackbacks closed
+#: ../image.php:76
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: ../search.php:17
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:10 ../searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:11
+msgctxt "placeholder"
+msgid "Search - Type & Hit Enter &hellip;"
+msgstr ""
+
+#: ../searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: ../inc/custom-header.php:40
+msgid "Header Image"
+msgstr ""
+
+#: ../inc/customizer.php:16
+msgid "Enabling the tagline will push content section down off the header image!."
+msgstr ""
+
+#: ../inc/customizer.php:17
+msgid ""
+"TITLE NOTE: Default color is only applied to Site Title! Background may only be "
+"visible on wide screens."
+msgstr ""
+
+#: ../inc/customizer.php:18
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: ../inc/customizer.php:24
+msgid "Site Title & Tagline Color"
+msgstr ""
+
+#: ../inc/customizer.php:27
+msgid "Display Site Title"
+msgstr ""
+
+#: ../inc/customizer.php:31
+msgid "Itek Theme Notes"
+msgstr ""
+
+#: ../inc/customizer.php:32
+msgid ""
+"Welcome & thank you for choosing Itek as your site theme. In this section "
+"you'll find some helpful hints and tips to help you configure your site quickly "
+"and easily.\n"
+"		<br/><br/> <b>Social Icons</b> are configurable via a custom menu. To set up "
+"your social profile visit the Appearance >><a href=\"%1$s\"> Menu section</a>, "
+"enter your profile urls and add them to the \"Social\" Menu Location.\n"
+"		<br/><br/><a href=\"%2$s\" target=\"_blank\" />View Theme Demo</a> | <a "
+"href=\"%3$s\" target=\"_blank\" />Get Theme Support</a> "
+msgstr ""
+
+#: ../inc/customizer.php:39
+msgid "Itek General Options"
+msgstr ""
+
+#: ../inc/customizer.php:40
+msgid "Use the following settings to set Sitewide General options."
+msgstr ""
+
+#: ../inc/customizer.php:46
+msgid "Itek Showcase Options"
+msgstr ""
+
+#: ../inc/customizer.php:47
+msgid "Use this section for extra finer controls of your Showcase area!"
+msgstr ""
+
+#: ../inc/customizer.php:52
+msgid "Itek FitVids Options"
+msgstr ""
+
+#: ../inc/customizer.php:53
+msgid ""
+"Use the following settings to set fitvids script options. Options are: Enable "
+"script, Set selector (Default is .post) and set custom selector (optional) for "
+"other areas like .sidebar or a custom section!"
+msgstr ""
+
+#: ../inc/customizer.php:66
+msgid "Display Site Tagline"
+msgstr ""
+
+#: ../inc/customizer.php:82
+msgid "Hide Standard Page Title"
+msgstr ""
+
+#: ../inc/customizer.php:97
+msgid "Hide WooCommerce Page Title"
+msgstr ""
+
+#: ../inc/customizer.php:113
+msgid "Blog Feed Excerpt Length"
+msgstr ""
+
+#: ../inc/customizer.php:129
+msgid "Recent Post Widget Excerpt Length"
+msgstr ""
+
+#: ../inc/customizer.php:145
+msgid "Enable Featured Content Section?"
+msgstr ""
+
+#: ../inc/customizer.php:152
+msgid "This is a callout title"
+msgstr ""
+
+#: ../inc/customizer.php:157
+msgid "Callout Section Title"
+msgstr ""
+
+#: ../inc/customizer.php:164
+msgid ""
+"Here goes some text to hint at what is being called out on! Keep it short, "
+"sweet & simple and an attention grabber!"
+msgstr ""
+
+#: ../inc/customizer.php:169
+msgid "Callout Message"
+msgstr ""
+
+#: ../inc/customizer.php:176
+msgid "Click For Details!"
+msgstr ""
+
+#: ../inc/customizer.php:181
+msgid "Callout Button Text"
+msgstr ""
+
+#: ../inc/customizer.php:193
+msgid "Callout Button url"
+msgstr ""
+
+#: ../inc/customizer.php:209
+msgid "Disable Showcase Image Morphing"
+msgstr ""
+
+#: ../inc/customizer.php:225
+msgid "Enable FitVids?"
+msgstr ""
+
+#: ../inc/customizer.php:241
+msgid "Enter a selector for FitVids - i.e. .post"
+msgstr ""
+
+#: ../inc/customizer.php:257
+msgid "Enter a custom selector for FitVids - i.e. .sidebar"
+msgstr ""
+
+#: ../inc/extras.php:70
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:12
+msgid "Itek Page Showcase"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:14
+msgid "Showcase a Page in any Widget Area - Designed for use with the Showcase Widgets"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:94
+msgid "Page Showcase Widget"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:102
+msgid "Read Full Page"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:106
+msgid "Select Page to display: "
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:150
+msgid "Display Page Thumbnail?"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:158
+msgid "Insert Excerpt Length"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:188
+msgid "Show `[...]` after excerpt?"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:212
+msgid "Display The Page Title?"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:236
+msgid "Hyperlink The Page Title?"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:260
+msgid "Show Read More Link?"
+msgstr ""
+
+#: ../inc/itek-page-showcase.php:269
+msgid "Read More Label"
+msgstr ""
+
+#: ../inc/template-tags.php:36
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:85
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:89
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../inc/template-tags.php:90
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:95
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:99
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:122
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:132
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:138
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:145
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:231
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"author byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:239
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/widgets.php:44
+msgid "Itek Ephemera"
+msgstr ""
+
+#: ../inc/widgets.php:46
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, "
+"and Link posts"
+msgstr ""
+
+#: ../inc/widgets.php:56
+msgid "Audio"
+msgstr ""
+
+#: ../inc/widgets.php:59
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/widgets.php:148
+msgid "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+msgid_plural "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/widgets.php:189
+msgid "More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/widgets.php:236
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets.php:239
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/widgets.php:242
+msgid "Post format to show:"
+msgstr ""
+
+#: ../inc/widgets.php:259
+msgid ""
+"Itek - Recent Posts (Widescope Thumbs). Can be used for the sidebar and as an "
+"alternative to the Showcase Widget."
+msgstr ""
+
+#: ../inc/widgets.php:261
+msgid "Itek - Recent Posts"
+msgstr ""
+
+#: ../inc/widgets.php:268
+msgid "Itek Recent Posts"
+msgstr ""
+
+#: ../inc/widgets.php:368
+msgid "Widget Title:"
+msgstr ""
+
+#: ../inc/widgets.php:370
+msgid "Select A Category:"
+msgstr ""
+
+#: ../inc/widgets.php:381
+msgid "Number of Post to show:"
+msgstr ""
+
+#: ../inc/widgets.php:383
+msgid "Hide Widget Title:"
+msgstr ""
+
+#: ../inc/widgets.php:389
+msgid "Hide Thumbnail:"
+msgstr ""
+
+#: ../inc/widgets.php:394
+msgid "Hide Post Date:"
+msgstr ""
+
+#: ../inc/widgets.php:399
+msgid "Hide the Excerpt:"
+msgstr ""
+
+#: ../inc/widgets.php:404
+msgid "Hide Readmore Button:"
+msgstr ""

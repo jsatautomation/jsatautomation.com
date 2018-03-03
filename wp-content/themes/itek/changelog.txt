@@ -1,0 +1,86 @@
+Theme Name:   iTek
+File Name:    Changelog
+Tested up to: 4.1.2
+Stable tag:	  1.1.6
+
+== Changelog ==
+
+= 1.1.6 =
+* Fixed: Implemented security patch related to add_query_arg()
+
+= 1.0.5 =
+* Added option to hyperlink thumbnail for page showcase widget - file(s): itek-page-showcase.php
+* Added "capability" check on customizer options - file(s): customizer.php.
+* Minor CSS adjustments for better visual on small screens - file(s): custom.css.
+* Tested theme with currently WordPress development version @ v4.1-alpha
+
+= 1.1.4 =
+
+* Wrapped custom widget classes in conditional check to make it easy for child theme to override them - file(s): functions.php, itek-page-showcase.php & widgets.php
+
+= 1.1.3 =
+* Removed invalid header meta that was causing error on HTML5 validation - file(s): header.php
+* Removed a nested widget title within another title for HTML5 validation - file(s): itek-page-showcase.php
+* Wrapped Site Description in a div container for ease of style targeting - file(s): header.php
+
+= 1.1.2 =
+* Added $global declaration for $content_width definition inside a function callback - file(s): functions.php.
+* Adjusted CSS & code for navbar on mobile devices - file(s): functions.php & css/custom.css.
+* Adjusted CSS for shop description - file(s): css/custom.css
+* NEW: Re-factored the Post Featured image output to show full width on the first post (front page only) - file(s): content-home.php & css/style.css
+* Adjusted blog feed to show excerpts when not set as front page - file(s): home.php.
+
+= 1.1.1 =
+* FIXED: Gallery styling in support of html5's gallery and caption additions
+
+== 1.1.0 =
+* FIXED: Bug on disappearing Site Title on small viewing medias - file(s): css/custom.css
+* Adjusted function itek_internal_css() to better handle how content area sits on the Parallax header image - file(s): functions.php
+* Separated Content options from General options for better grouping (See Notes in readme.txt re general options tab visibility!) - file(s): inc/customizer.php
+* NEW: Added option to control Primary menu cart link visibility - file(s): inc/customizer.php & inc/woo-functions.php
+
+= 1.0.9 =
+* Switched Archives and Categories to show excerpts instead of full articles - File(s): content.php.
+* Minor code adjustment on post thumbnails position for archives & categories - File(s): content.php.
+* Adjusted Showcase entry-title font size to be inline with that of the widget title - File(s): css/custom.css.
+* Tested theme against WordPress v3.9.1-alpha
+
+= 1.0.8 =
+* NEW: Added option to upload a logo in place of the Site title - File(s): nav-top.php & customizer.php - see Notes in readme.txt.
+* Minor text/code adjustments and tested against WordPress 3.9-RC2
+
+= 1.0.7 =
+* Improved child theme support to override parent's header image function - File(s): functions.php
+* Streamlined WooCommerce functions in to a separate file for better handling of code - File(s): functions.php & inc/woo-functions.php
+* NEW: Added function for Cart link/totals as a new item to the Primary menu location - File(s): inc/woo-functions.php
+* Added Font Awesome in support of above addition & in preparation for future feature(s)[TBD] implementation
+
+= 1.0.6 =
+* NEW: Added option to set header image to show on all pages - File(s): functions.php & customizer.php
+
+= 1.0.5 =
+* Added extra div elements to better support end user CSS targeting for customization - File(s): home.php, index.php, page.php, single.php & woocommerce.php
+* NEW: Added option to hide/show page titles including option for WooCommerce page title - File(s): customizer.php.
+* Tweaked CSS values for better support of WooCommerce output - File(s): css/customwoo.css.
+* Added new screenshot
+
+= 1.0.4 =
+* NEW: Added support for WooCommerce.
+
+= 1.0.3 =
+* Removing second instance of add_theme_support( 'html5', array()) in functions.php
+* Added html5 support for both gallery and caption.
+
+= 1.0.2 =
+* Fixed a potentially unintended end result behaviour on secondary/social menu - props @chipbennett.
+* Fixed bug in the page showcase widget where unwanted code was being printed out in the widget area.
+
+= 1.0.1 =
+* Implemented the checked() function for custom widgets.
+* Implemented correct data security for footer credits.
+* Addressed missing translation strings customizer.php.
+* Applied correct prefix for custom functions in customizer.php.
+* Removed residue custom widget as it was meant for the pro version.
+
+= 1.0.0 =
+Initial Release 

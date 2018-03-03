@@ -1,0 +1,561 @@
+# Copyright (C) 2016 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Prime 1.0.2\n"
+"Report-Msgid-Bugs-To: https://www.themefarmer.com \n"
+"POT-Creation-Date: 2016-02-14 17:35+0530\n"
+"PO-Revision-Date: 2016-02-14 17:35+0530\n"
+"Last-Translator: themefarmer.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:12
+msgid "ERROR"
+msgstr ""
+
+#: 404.php:13
+msgid "Page cannot be found"
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"The Page you requested is not be found. This could be spelling error in the "
+"url."
+msgstr ""
+
+#: 404.php:15
+msgid "Go back to homepage"
+msgstr ""
+
+#: archive.php:20 index.php:20
+msgid "Previous Page"
+msgstr ""
+
+#: archive.php:21 index.php:21
+msgid "Next Page"
+msgstr ""
+
+#: comment-function.php:17
+msgid "Reply"
+msgstr ""
+
+#: comment-function.php:41
+msgid "at"
+msgstr ""
+
+#: comment-function.php:49
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:8
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:8 inc/template-tags.php:45
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:13
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:14
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:33
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:33
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:36
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:39
+msgid "Leave a Reply"
+msgstr ""
+
+#: footer.php:8 functions.php:52
+msgid "Footer Widget Area"
+msgstr ""
+
+#: footer.php:10 functions.php:54
+msgid "footer widget area"
+msgstr ""
+
+#: footer.php:20 sidebar.php:16
+msgid "Calendar"
+msgstr ""
+
+#: footer.php:31
+#, php-format
+msgid "Theme by %1$s"
+msgstr ""
+
+#: functions.php:9
+msgid "Primary"
+msgstr ""
+
+#: functions.php:42 sidebar.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:44 sidebar.php:10
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: header.php:13
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:4 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search "
+msgstr ""
+
+#: sidebar.php:17
+msgid "Search"
+msgstr ""
+
+#: single.php:16
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:17
+msgid "Next Post"
+msgstr ""
+
+#: inc/business-prime-customizer.php:13
+msgid "VIEW PRO VERSION "
+msgstr ""
+
+#: inc/business-prime-customizer.php:14
+msgid "View Documentation "
+msgstr ""
+
+#: inc/business-prime-customizer.php:38
+msgid "Select Page"
+msgstr ""
+
+#: inc/business-prime-customizer.php:61
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/business-prime-customizer.php:79
+msgid "Open social links in new tab"
+msgstr ""
+
+#: inc/business-prime-customizer.php:95
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:109
+msgid "Google Page URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:124
+msgid "Youtube Page URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:138
+msgid "Twitter Page URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:152
+msgid "Linkedin Page URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:166
+msgid "Email"
+msgstr ""
+
+#: inc/business-prime-customizer.php:180
+msgid "Phone"
+msgstr ""
+
+#: inc/business-prime-customizer.php:188
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/business-prime-customizer.php:207
+msgid "Hide Slider "
+msgstr ""
+
+#: inc/business-prime-customizer.php:218
+msgid "Slide One Page"
+msgstr ""
+
+#: inc/business-prime-customizer.php:231
+msgid "Slide Two Page"
+msgstr ""
+
+#: inc/business-prime-customizer.php:244
+msgid "Slide Three Page"
+msgstr ""
+
+#: inc/business-prime-customizer.php:251 inc/business-prime-variables.php:29
+msgid "Click To Begin"
+msgstr ""
+
+#: inc/business-prime-customizer.php:262
+msgid "Button Text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:277
+msgid "Button Link"
+msgstr ""
+
+#: inc/business-prime-customizer.php:285
+msgid "Services Settings"
+msgstr ""
+
+#: inc/business-prime-customizer.php:291
+msgid "Service Heading Text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:302
+msgid "Title Text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:306
+msgid "Service description text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:317
+msgid "Description Text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:321
+msgid "Service One Title"
+msgstr ""
+
+#: inc/business-prime-customizer.php:332 inc/business-prime-customizer.php:363
+#: inc/business-prime-customizer.php:394
+msgid "Title"
+msgstr ""
+
+#: inc/business-prime-customizer.php:336
+msgid "Service One Description"
+msgstr ""
+
+#: inc/business-prime-customizer.php:347 inc/business-prime-customizer.php:378
+#: inc/business-prime-customizer.php:409 inc/business-prime-customizer.php:447
+#: inc/business-prime-customizer.php:565 inc/business-prime-customizer.php:607
+msgid "Description"
+msgstr ""
+
+#: inc/business-prime-customizer.php:351
+msgid "Service Two Title"
+msgstr ""
+
+#: inc/business-prime-customizer.php:367
+msgid "Service Two Description"
+msgstr ""
+
+#: inc/business-prime-customizer.php:382
+msgid "Service Three Title"
+msgstr ""
+
+#: inc/business-prime-customizer.php:398
+msgid "Service Three Description"
+msgstr ""
+
+#: inc/business-prime-customizer.php:416
+msgid "Callout Options"
+msgstr ""
+
+#: inc/business-prime-customizer.php:422 inc/business-prime-variables.php:33
+msgid "Work Speaks Thousand Words"
+msgstr ""
+
+#: inc/business-prime-customizer.php:432 inc/business-prime-customizer.php:550
+#: inc/business-prime-customizer.php:591
+msgid "Heading"
+msgstr ""
+
+#: inc/business-prime-customizer.php:437
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome WordPress themes & support."
+msgstr ""
+
+#: inc/business-prime-customizer.php:459
+msgid "Background Image"
+msgstr ""
+
+#: inc/business-prime-customizer.php:466
+msgid "Register Now"
+msgstr ""
+
+#: inc/business-prime-customizer.php:477
+msgid "Button One Text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:493
+msgid "Button One URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:498
+msgid "View Course"
+msgstr ""
+
+#: inc/business-prime-customizer.php:509
+msgid "Button Two Text"
+msgstr ""
+
+#: inc/business-prime-customizer.php:524
+msgid "Button Two URL"
+msgstr ""
+
+#: inc/business-prime-customizer.php:532
+msgid "Latest Blogs Settings"
+msgstr ""
+
+#: inc/business-prime-customizer.php:540
+msgid "Our Blogs"
+msgstr ""
+
+#: inc/business-prime-customizer.php:555
+msgid "Be updated with latest news"
+msgstr ""
+
+#: inc/business-prime-customizer.php:572
+msgid "Clients Settings"
+msgstr ""
+
+#: inc/business-prime-customizer.php:580
+msgid "Our Clients"
+msgstr ""
+
+#: inc/business-prime-customizer.php:596
+msgid "We have awesome client list"
+msgstr ""
+
+#: inc/business-prime-customizer.php:619
+msgid "Upload Client Image One"
+msgstr ""
+
+#: inc/business-prime-customizer.php:633
+msgid "Upload Client Image Two"
+msgstr ""
+
+#: inc/business-prime-customizer.php:647
+msgid "Upload Client Image Three"
+msgstr ""
+
+#: inc/business-prime-functions.php:24
+msgid "Click To Add Social Links "
+msgstr ""
+
+#: inc/business-prime-variables.php:34
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome wordpress themes & support."
+msgstr ""
+
+#: inc/business-prime-variables.php:35
+msgid "Purchase Theme"
+msgstr ""
+
+#: inc/business-prime-walker.php:114 inc/themefarmer-breadcrumbs.php:26
+#: inc/themefarmer-breadcrumbs.php:66
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:20 inc/template-tags.php:78 inc/template-tags.php:84
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:39
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:50
+#, php-format
+msgctxt "post author"
+msgid " by %s"
+msgstr ""
+
+#: inc/template-tags.php:59
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:80
+#, php-format
+msgid "Tags %1$s"
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Categories %1$s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:30
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:32
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:34
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:36
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:38
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:38
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:40
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:42
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:46
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:50
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:67
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:68
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:69
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:70
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:71
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:72
+msgid "Error 404"
+msgstr ""
+
+#: inc/themefarmer-breadcrumbs.php:164
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-home.php:29 template-parts/content-index.php:29
+#: template-parts/content-search.php:29 template-parts/content.php:53
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:24
+#: template-parts/content.php:46 template-parts/content.php:100
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:41 template-parts/content.php:95
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
